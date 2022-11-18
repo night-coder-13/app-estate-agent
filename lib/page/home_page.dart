@@ -33,7 +33,7 @@ class HomePage extends StatelessWidget {
       body:Column(
         children: [
           HeaderMain(),
-          SizedBox(height: 20,),
+          SizedBox(height: 10,),
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
             child: Row(
